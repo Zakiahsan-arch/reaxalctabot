@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="200" viewBox="0 0 400 200">
+  <rect width="400" height="200" fill="#f0f4ff"/>
+  <circle cx="100" cy="100" r="60" fill="#4f46e5"/>
+  <text x="180" y="110" font-size="24" fill="#111827" font-family="Arial, sans-serif">
+    WhatsApp Bot Manager
+  </text>
+</svg>
