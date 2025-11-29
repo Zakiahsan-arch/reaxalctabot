@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="200" viewBox="0 0 400 200">
+  <rect width="400" height="200" fill="#f9fafb"/>
+  <circle cx="80" cy="100" r="50" fill="#4f46e5"/>
+  <rect x="160" y="60" width="200" height="30" fill="#e5e7eb"/>
+  <rect x="160" y="100" width="200" height="30" fill="#d1d5db"/>
+  <rect x="160" y="140" width="200" height="30" fill="#9ca3af"/>
+  <text x="170" y="80" font-size="16" fill="#111827" font-family="Arial, sans-serif">
+    Email: muhammadzakiahsan@mail.com
+  </text>
+  <text x="170" y="120" font-size="16" fill="#111827" font-family="Arial, sans-serif">
+    WhatsApp: +62 857-2976-9183
+  </text>
+  <text x="170" y="160" font-size="16" fill="#111827" font-family="Arial, sans-serif">
+    Instagram: @Zzakiahsan
+  </text>
+</svg>
